@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.3A5fxDvi2QPloWG-iow7ugHaQC?w=739&h=1600&rs=1&pid=ImgDetMain);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+h1{
+    text-align: center;
+    font-family: garamond;
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    letter-spacing: 3px;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(159, 159, 159);
+    font-size: 26px;
+    
+}
+
+
+ul{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: left;
+    color: rgb(187, 0, 255);
+    font-size: 28px;
+}
+
+.click-button{
+    font-size: 26px;
+    background-size: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(56, 55, 55);
+    border-radius: 7px;
+}
