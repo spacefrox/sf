@@ -36,3 +36,9 @@ ul{
     background-color: rgb(56, 55, 55);
     border-radius: 7px;
 }
+
+h3{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 50px;
+}
