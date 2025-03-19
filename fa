@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Ramaraja&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ramaraja&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ga+Maamli&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+body{
+background-image: url(https://img.freepik.com/free-vector/winter-light-blue-gradient-background_53876-120755.jpg);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+h1{
+background-color: white;
+letter-spacing: 3px;
+text-align: center;
+font-size: 55px;
+word-spacing: 6px;
+font-family: "Ramaraja", serif;
+}
+h2{   
+text-align: center;
+font-size: 30px;
+font-family: "Public Sans", sans-serif;
+}
+h4{
+font-family: "Ga Maamli", sans-serif;
+font-size: 25px;
+text-align: center;
+}
+h5{
+font-size: 99px;
+text-align: left;
+}
+h3{
+font-size: 25px;
+font-family: "Libre Baskerville", serif;
+}
+</style>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Frox Addon</title>
+<h1>Frox Addon</h1>
+</head>
+<body>
+<h2>A space-themed fashion by <a href="social.html">Space Frox</a></h2><br>
+<h4><u>Welcome to the website</u></h4>
+<h5>Opening Soon...</h5>
+</body>
+</html>
